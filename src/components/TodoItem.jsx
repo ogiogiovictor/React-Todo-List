@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
+import { FaTrash } from "react-icons/fa"
 import "./TodoItem.css"
+
 
 const TodoItem = (props) => {
 
@@ -50,7 +52,7 @@ const TodoItem = (props) => {
             </span>
 
             <button onClick={() => props.deleteTodoProps(id)}>
-            Delete
+            <FaTrash />
             </button>
         </div>
         <input type="text" style={editMode} className="textInput" value={title} 
