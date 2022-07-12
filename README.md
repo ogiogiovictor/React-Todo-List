@@ -2,7 +2,7 @@
 
 # React Todo List
 
-In this project, we are going to be designing a todo list where you can add todo, mark as complete or remove todo
+In this project, we are going to be designing a todo list where you can add todo, mark as complete or remove todo. The project is built with React Component as well and function and class component.
 
 ## Built With
 
