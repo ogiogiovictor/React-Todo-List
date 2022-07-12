@@ -8,7 +8,7 @@ In this project, we are going to be designing a todo list where you can add todo
 
 - HTML
 - CSS (Flexbox)
-- Linters: Webhint, Stylelint & ESLint
+- Linters: Stylelint & ESLint
 - Webpack 
 - React
 
