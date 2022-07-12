@@ -1,6 +1,6 @@
 import TodoContainer from './components/TodoContainer';
-import Header from './components/Header';
 import { BrowserRouter as Router } from "react-router-dom"
+import Header from './components/Header';
 
 import './App.css';
 
