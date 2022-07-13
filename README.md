@@ -2,61 +2,47 @@
 
 # React Todo List
 
-- A Todo List built with React
-
+In this project, we are going to be designing a todo list where you can add todo, mark as complete or remove todo. The project is built with React Component as well and function and class component.
 
 ## Built With
 
-- JavaScript
-- React
-- CSS
-
-## Live Demo (if available)
-
-[Live Demo Link](https://danielufeli.github.io/react-todos/)
-
+- HTML
+- CSS (Flexbox)
+- Linters: Stylelint & ESLint
+- React 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follw these simple example steps:
 
-### Prerequisites
-- Make sure you have installed nodejs
+```
+    - Clone the repo with git clone using the link below
+    - git clone https://github.com/ogiogiovictor/React-Todo-List
+    - $ Once the report has been cloned change the project directory by cd into the directory
+    - $ cd into the todo list from your teminal.
+```
+Important: Once you have downloaded the code, run npm install, to install all dependencies of the project for it to work properly.
 
-### Setup
-- git clone git@github.com:danielufeli/react-todos.git
-
-### Install
-- run npm install
-### Usage
-- run npm start
-### Run tests
-
-- run npm test
-
+# Website URL - Github Pages
+The Webpage is now deployed using github pages. See url link below:
+[live demo]( https://github.com/ogiogiovictor/React-Todo-List/dist)
 
 
 ## Authors
+👤 **Ogiogio Victor**
 
-👤 **Daniel Ufeli**
-
-- GitHub: [@danielufeli](https://github.com/danielufeli)
-- Twitter: [@danielufeli](https://twitter.com/danielufeli)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/danielcode)
+- GitHub: [ogiogiovictor](https://github.com/ogiogiovictor) 
+- LinkedIn: [Ogiogio Victor](https://www.linkedin.com/in/ogiogio-victor-a096a0181/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Appreciation to the Create React Team
 
 ## 📝 License
 
