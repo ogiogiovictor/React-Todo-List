@@ -13,7 +13,7 @@ In this project, we are going to be designing a todo list where you can add todo
 
 ## Getting Started
 
-To get a local copy up and running follw these simple example steps:
+To get a local copy up and running follw these simple example steps to follow
 
 ```
     - Clone the repo with git clone using the link below
